@@ -17,6 +17,7 @@
 <h2> Heading 2 using < h2 > tag</h2>
 
 ***
+<br>
 
 # EMPHASIS:
 
@@ -33,6 +34,7 @@
 _2. This is italics using markdown_
 
 ***
+<br>
 
 ## Scratch:
 
@@ -45,6 +47,7 @@ _2. This is italics using markdown_
 [Visit Website](https://www.linkedin.com/in/prince-rathore-9a6a96178/ "You Guessed it Right. That's me")
 
 ***
+<br>
 
 ## Images:
 
@@ -55,6 +58,7 @@ _2. This is italics using markdown_
 ![](https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif)
 
 ***
+<br>
 
 ## Coding:
 
@@ -75,8 +79,9 @@ BLOCKQUOTES
 >This is Awesome!
 
 >Right!
- 
- ***
+
+***
+<br>
 
 ## Tables:
 
@@ -85,6 +90,7 @@ BLOCKQUOTES
 |Data1 |Data2|Data3|
 
 ***
+<br>
 
 ## TASK LISTS:
 
@@ -94,3 +100,4 @@ BLOCKQUOTES
 - [x] This is also completed
 
 ***
+<br>
