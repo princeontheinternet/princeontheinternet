@@ -41,6 +41,7 @@ _2. This is italics using markdown_
 ~~1000~~ **999**
 
 ***
+<br>
 
 ## Links:
 
