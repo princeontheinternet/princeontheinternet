@@ -1,4 +1,4 @@
-# Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am [Prince](). 🙏🏻
+# Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am [Prince](https://www.linkedin.com/in/prince-rathore-9a6a96178/ "That's me"). 🙏🏻
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=princeontheinternet&label=Profile%20views&color=0e75b6&style=flat" alt="princeontheinternet" /> 
