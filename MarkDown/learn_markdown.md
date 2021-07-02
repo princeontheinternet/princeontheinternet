@@ -1,6 +1,5 @@
-# HEADINGS:
+## HEADINGS:
 
----
 
 # Heading 1 using Pound Sign
 
@@ -35,19 +34,19 @@ _2. This is italics using markdown_
 
 ***
 
-# Scratch:
+## Scratch:
 
 ~~1000~~ **999**
 
 ***
 
-# Links
+## Links:
 
 [Visit Website](https://www.linkedin.com/in/prince-rathore-9a6a96178/ "You Guessed it Right. That's me")
 
 ***
 
-# Images:
+## Images:
 
 ![Alternative text for image](https://analyticsindiamag.com/wp-content/uploads/2020/10/7d744a684fe03ebc7e8de545f97739dd.jpg "This is random pic I found on google")
 
@@ -57,7 +56,7 @@ _2. This is italics using markdown_
 
 ***
 
-# Coding:
+## Coding:
 
 Using a `for` loop
 
@@ -79,7 +78,7 @@ BLOCKQUOTES
  
  ***
 
-# Tables:
+## Tables:
 
 | Col1 | Col2 | Col3 |
 |---   |---  |---    |
@@ -87,7 +86,7 @@ BLOCKQUOTES
 
 ***
 
-# TASK LISTS:
+## TASK LISTS:
 
 - [x] This is a complete item
 - [ ] This is an incomplete item
