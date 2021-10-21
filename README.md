@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning: Python
 - 🤔 I’m looking for help with: Python and Data Engineering
 - 💬 Ask me about: Anything
-- 📫 How to reach me: ✔[Linkedin](https://www.linkedin.com/in/prince-rathore-9a6a96178/)
+- 📫 How to reach me: ✔[Linkedin](https://www.linkedin.com/in/prince-rathor-de/)
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I can beat you in arm wrestling!
 
